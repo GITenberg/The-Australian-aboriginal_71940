@@ -1,11 +1,16 @@
 _repo: The-Australian-aboriginal_71940
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71940-h/images/cover.jpg
 creator:
   author:
     agent_name: Basedow, Herbert
     gutenberg_agent_id: '56467'
     url: http://www.gutenberg.org/2009/agents/56467
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71940#The-Australian-aboriginal
 gutenberg_issued: '2023-10-23'
 identifiers:
   gutenberg: '71940'
